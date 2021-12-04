@@ -1,0 +1,16 @@
+D:\Repos\Education\Complete C# Masterclass\CompleteCSharpMasterclass\Hello World\obj\Debug\net5.0\Hello World.csproj.AssemblyReference.cache
+D:\Repos\Education\Complete C# Masterclass\CompleteCSharpMasterclass\Hello World\obj\Debug\net5.0\Hello World.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Education\Complete C# Masterclass\CompleteCSharpMasterclass\Hello World\obj\Debug\net5.0\Hello World.AssemblyInfoInputs.cache
+D:\Repos\Education\Complete C# Masterclass\CompleteCSharpMasterclass\Hello World\obj\Debug\net5.0\Hello World.AssemblyInfo.cs
+D:\Repos\Education\Complete C# Masterclass\CompleteCSharpMasterclass\Hello World\obj\Debug\net5.0\Hello World.csproj.CoreCompileInputs.cache
+D:\Repos\Education\Complete C# Masterclass\CompleteCSharpMasterclass\Hello World\bin\Debug\net5.0\Hello World.exe
+D:\Repos\Education\Complete C# Masterclass\CompleteCSharpMasterclass\Hello World\bin\Debug\net5.0\Hello World.deps.json
+D:\Repos\Education\Complete C# Masterclass\CompleteCSharpMasterclass\Hello World\bin\Debug\net5.0\Hello World.runtimeconfig.json
+D:\Repos\Education\Complete C# Masterclass\CompleteCSharpMasterclass\Hello World\bin\Debug\net5.0\Hello World.runtimeconfig.dev.json
+D:\Repos\Education\Complete C# Masterclass\CompleteCSharpMasterclass\Hello World\bin\Debug\net5.0\Hello World.dll
+D:\Repos\Education\Complete C# Masterclass\CompleteCSharpMasterclass\Hello World\bin\Debug\net5.0\ref\Hello World.dll
+D:\Repos\Education\Complete C# Masterclass\CompleteCSharpMasterclass\Hello World\bin\Debug\net5.0\Hello World.pdb
+D:\Repos\Education\Complete C# Masterclass\CompleteCSharpMasterclass\Hello World\obj\Debug\net5.0\Hello World.dll
+D:\Repos\Education\Complete C# Masterclass\CompleteCSharpMasterclass\Hello World\obj\Debug\net5.0\ref\Hello World.dll
+D:\Repos\Education\Complete C# Masterclass\CompleteCSharpMasterclass\Hello World\obj\Debug\net5.0\Hello World.pdb
+D:\Repos\Education\Complete C# Masterclass\CompleteCSharpMasterclass\Hello World\obj\Debug\net5.0\Hello World.genruntimeconfig.cache
